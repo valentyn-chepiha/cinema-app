@@ -26,6 +26,7 @@ One-to-one, one-to-many, and many-to-many relationships are used in databases.
 - Hibernate
 - MySQL
 - Swagger 2
+- Lombok
 - TomCat 9.0.50
 
 ## How to use
