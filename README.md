@@ -1,4 +1,14 @@
 # Cinema-app
+[Demo](https://secret-escarpment-39325.herokuapp.com/)
+
+### User accounts for Demo
+    user: admin@server.com
+    pass: password
+    role: admib
+    
+    user: user@server.com
+    pass: password
+    role: user    
 
 ## Description
 Cinema-app is the server side of an online ticket booking application. 
